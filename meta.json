@@ -1,0 +1,221 @@
+{
+  "name": "许诠仁",
+  "display_name": "许诠仁",
+  "character": "celebrity",
+  "research_profile": "budget-friendly",
+  "classification": {
+    "language": "zh-CN",
+    "gallery_category": "Celebrity",
+    "tags": [
+      "紫微斗数",
+      "命理学",
+      "飞宫四化",
+      "易理哲学",
+      "北派斗数",
+      "台湾"
+    ]
+  },
+  "profile": "台湾紫微斗数命理师，北派钦天四化飞宫体系的重要传承者与系统化重建者。1950年生于鹿港，中原理工学院毕业，海关公职17年，1984年开班授课，1995年出版《紫微斗数命理学正解》，2013年去世。被称为'北派斗数现代化先驱'，将紫微斗数从星性论命的术数层面提升至易理哲学为根基的系统化学科。",
+  "tags": [
+    "紫微斗数",
+    "命理学",
+    "飞宫四化",
+    "易理哲学",
+    "北派斗数",
+    "台湾"
+  ],
+  "knowledge_sources": [
+    {
+      "type": "book",
+      "title": "紫微斗数命理学正解",
+      "weight": 1
+    },
+    {
+      "type": "transcript",
+      "title": "帮主听课笔记（高级班202307版）",
+      "weight": 1
+    },
+    {
+      "type": "book",
+      "title": "学习紫微斗数的第一本书",
+      "weight": 1
+    },
+    {
+      "type": "web",
+      "title": "DestinyNet命理网讨论",
+      "weight": 5
+    },
+    {
+      "type": "web",
+      "title": "fatebook.cc惟馨堂陈教授评价",
+      "weight": 5
+    },
+    {
+      "type": "web",
+      "title": "ziweicn.com紫微斗数学堂",
+      "weight": 5
+    }
+  ],
+  "type": "celebrity",
+  "lifecycle": {
+    "status": "active",
+    "created_at": "2026-05-13T16:49:40.164264+00:00",
+    "updated_at": "2026-05-13T16:49:40.164264+00:00",
+    "version": "v1"
+  },
+  "generation": {
+    "engine": "dot-skill",
+    "character": "celebrity",
+    "research_profile": "budget-friendly",
+    "preset": "dot.celebrity.v1",
+    "prompt_bundle": {
+      "preset": "dot.celebrity.v1",
+      "intake": "prompts/celebrity/intake.md",
+      "research": "prompts/celebrity/research.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/celebrity/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/celebrity/persona_builder.md",
+      "merger": "prompts/celebrity/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {
+      "research": "prompts/celebrity/research.md",
+      "persona_analyzer": "prompts/celebrity/persona_analyzer.md",
+      "persona_builder": "prompts/celebrity/persona_builder.md"
+    },
+    "research_profile_references": [],
+    "merge_strategy": "compact",
+    "quality_profile": "budget-friendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails",
+      "research/raw",
+      "research/merged",
+      "research/reviews",
+      "transcripts",
+      "subtitles"
+    ],
+    "storage_root": "skills/celebrity",
+    "research_tools": {
+      "subtitle_downloader": "tools/research/download_subtitles.sh",
+      "subtitle_cleaner": "tools/research/srt_to_transcript.py",
+      "research_merger": "tools/research/merge_research.py",
+      "quality_check": "tools/research/quality_check.py"
+    },
+    "created_from": [
+      {
+        "type": "book",
+        "title": "紫微斗数命理学正解",
+        "weight": 1
+      },
+      {
+        "type": "transcript",
+        "title": "帮主听课笔记（高级班202307版）",
+        "weight": 1
+      },
+      {
+        "type": "book",
+        "title": "学习紫微斗数的第一本书",
+        "weight": 1
+      },
+      {
+        "type": "web",
+        "title": "DestinyNet命理网讨论",
+        "weight": 5
+      },
+      {
+        "type": "web",
+        "title": "fatebook.cc惟馨堂陈教授评价",
+        "weight": 5
+      },
+      {
+        "type": "web",
+        "title": "ziweicn.com紫微斗数学堂",
+        "weight": 5
+      }
+    ],
+    "corrections_count": 0
+  },
+  "source_context": {
+    "domain": "public",
+    "relationship_to_user": "public_figure",
+    "is_real_person": true,
+    "is_public_figure": true,
+    "is_fictional": false
+  },
+  "engine": {
+    "name": "dot-skill",
+    "kind": "meta-skill",
+    "character": "celebrity",
+    "research_profile": "budget-friendly",
+    "preset": "dot.celebrity.v1",
+    "prompt_bundle": {
+      "preset": "dot.celebrity.v1",
+      "intake": "prompts/celebrity/intake.md",
+      "research": "prompts/celebrity/research.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/celebrity/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/celebrity/persona_builder.md",
+      "merger": "prompts/celebrity/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {
+      "research": "prompts/celebrity/research.md",
+      "persona_analyzer": "prompts/celebrity/persona_analyzer.md",
+      "persona_builder": "prompts/celebrity/persona_builder.md"
+    },
+    "research_profile_references": [],
+    "merge_strategy": "compact",
+    "quality_profile": "budget-friendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails",
+      "research/raw",
+      "research/merged",
+      "research/reviews",
+      "transcripts",
+      "subtitles"
+    ],
+    "storage_root": "skills/celebrity",
+    "research_tools": {
+      "subtitle_downloader": "tools/research/download_subtitles.sh",
+      "subtitle_cleaner": "tools/research/srt_to_transcript.py",
+      "research_merger": "tools/research/merge_research.py",
+      "quality_check": "tools/research/quality_check.py"
+    }
+  },
+  "schema_version": "3",
+  "slug": "xu-quanren",
+  "kind": "meta-skill",
+  "subtype": null,
+  "preset": "dot.celebrity.v1",
+  "id": "meta-skill.celebrity.xu-quanren",
+  "artifacts": {
+    "combined_skill": "SKILL.md",
+    "work_skill": "work_skill.md",
+    "persona_skill": "persona_skill.md",
+    "work_doc": "work.md",
+    "persona_doc": "persona.md",
+    "manifest": "manifest.json",
+    "combined_name": "celebrity_xu-quanren",
+    "work_name": "celebrity_xu-quanren_work",
+    "persona_name": "celebrity_xu-quanren_persona",
+    "combined_command": "celebrity-xu-quanren",
+    "work_command": "celebrity-xu-quanren-work",
+    "persona_command": "celebrity-xu-quanren-persona"
+  },
+  "compat": {
+    "legacy_command": "/create-icon",
+    "legacy_storage_root": "skills/celebrity",
+    "legacy_type": "celebrity"
+  },
+  "summary": "许诠仁, 台湾紫微斗数命理师，北派钦天四化飞宫体系的重要传承者与系统化重建者。1950年生于鹿港，中原理工学院毕业，海关公职17年，1984年开班授课，1995年出版《紫微斗数命理学正解》，2013年去世。被称为'北派斗数现代化先驱'，将紫微斗数从星性论命的术数层面提升至易理哲学为根基的系统化学科。",
+  "created_at": "2026-05-13T16:49:40.164264+00:00",
+  "updated_at": "2026-05-13T16:49:40.164264+00:00",
+  "version": "v1",
+  "corrections_count": 0
+}
