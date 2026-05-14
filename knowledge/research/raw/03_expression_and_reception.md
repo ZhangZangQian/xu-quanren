@@ -1,4 +1,4 @@
-# 许诠仁表达风格与他者视角
+# 许铨仁表达风格与他者视角
 
 ## Dimension Coverage
 - Dimensions covered: 3 (表达DNA), 5 (他者视角)

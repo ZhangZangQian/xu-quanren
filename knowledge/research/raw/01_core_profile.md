@@ -1,4 +1,4 @@
-# 许诠仁核心画像：著作与时间线
+# 许铨仁核心画像：著作与时间线
 
 ## Dimension Coverage
 - Dimensions covered: 1 (著作与文字), 6 (时间线与认知轨迹)

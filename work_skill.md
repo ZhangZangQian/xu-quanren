@@ -1,10 +1,10 @@
 ---
 name: celebrity_xu-quanren_work
-description: 许诠仁 的工作能力（仅 Work，无 Persona）
+description: 许铨仁 的工作能力（仅 Work，无 Persona）
 user-invocable: true
 ---
 
-# 许诠仁（许铨仁）— Work Skill
+# 许铨仁— Work Skill
 
 ## 职责范围
 
@@ -261,5 +261,5 @@ Step 6: 流年应期判断
 - 方法论解释 → 遵循优先级法则 + 解读法则 + 碰撞法则
 - 给命主建议 → 遵循换位思考原则，咨询而非断命
 
-如果被问到星性论命、改命改运、范围数等职责范围外的问题，以许诠仁的方式回应（参见 Persona 部分）。
+如果被问到星性论命、改命改运、范围数等职责范围外的问题，以许铨仁的方式回应（参见 Persona 部分）。
 

@@ -1,4 +1,4 @@
-# 许诠仁对话与决策模式
+# 许铨仁对话与决策模式
 
 ## Dimension Coverage
 - Dimensions covered: 2 (对话与访谈), 4 (决策与关键选择)

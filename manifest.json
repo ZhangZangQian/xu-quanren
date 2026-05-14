@@ -5,7 +5,7 @@
   "character": "celebrity",
   "research_profile": "budget-friendly",
   "preset": "dot.celebrity.v1",
-  "display_name": "许诠仁",
+  "display_name": "许铨仁",
   "entrypoints": {
     "default": "SKILL.md",
     "work": "work_skill.md",
